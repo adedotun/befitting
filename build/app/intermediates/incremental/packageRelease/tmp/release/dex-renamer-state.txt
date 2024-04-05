@@ -1,0 +1,4 @@
+#Tue Jan 14 00:39:10 WAT 2020
+base.0=/Users/mac/AndroidStudioProjects/flutter_app/befitting/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
